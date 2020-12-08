@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654555255804",
+    "firebase_url": "https://agecalculator-a92ef.firebaseio.com",
+    "project_id": "agecalculator-a92ef",
+    "storage_bucket": "agecalculator-a92ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654555255804:android:649460a24ed2af3ba45879",
+        "android_client_info": {
+          "package_name": "com.maddlytech.agecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654555255804-661saajggmojciekpj14t2jcuakqkjij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeGLMXvN8xyiB0vo3NFDlJ5JGj302XUFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654555255804-661saajggmojciekpj14t2jcuakqkjij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
